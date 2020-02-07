@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-1
-data structure exercises
+Resolucoes de exercicios da materia de estrutura de dados 1.
